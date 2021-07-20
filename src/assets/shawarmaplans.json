@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 11,
+        "name" : "Burger",
+        "img" : "images/burger.png"
+    },
+    {
+        "id" : 12,
+        "name" : "Cheese Pizza",
+        "img" : "images/cheesepizza.png"
+    },
+    {
+        "id" : 13,
+        "name" : "Chicken Shawarma",
+        "img" : "images/chickenshawarma.png"
+    },
+    {
+        "id" : 14,
+        "name" : "Egg Shawarma",
+        "img" : "images/eggshawarma.png"
+    },
+    {
+        "id" : 15,
+        "name" : "French Fries",
+        "img" : "images/frenchfries.png"
+    }
+
+]

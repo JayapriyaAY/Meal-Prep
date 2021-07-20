@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 6,
+        "name" : "Aloo Parrota",
+        "img" : "images/alooparrota.png"
+    },
+    {
+        "id" : 7,
+        "name" : "Egg Parrota",
+        "img" : "images/eggparotta.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Layar Egg Parrota",
+        "img" : "images/layareggparrota.png"
+    },
+    {
+        "id" : 9,
+        "name" : "Parrota",
+        "img" : "images/parrota.png"
+    },
+    {
+        "id" : 10,
+        "name" : "Veech Parrota",
+        "img" : "images/veechuparrota.png"
+    }
+
+]
